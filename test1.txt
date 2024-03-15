@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: violet;}
+h1   {color: green;}
+p    {color: slateblue;}
+</style>
+
+<h1><u> A Happy Cat: </h1></u>
+<!Doctype html>
+<html>
+<head>
+</head>
+<body>
+<img src ="https://tse3.mm.bing.net/th?id=OIP.hgnmQTM5tG5qRGoVOSDmhAHaHC&pid=Api&P=0&h=220" width="300" height="200">
+<p><strong><i><b> One day, an old man was walking in the forest and saw a little cat stuck in a hole. The little cat was having a hard time getting out of the hole that’s why the old man decided to lend him a hand. Feeling scared, the poor animal scratched the man’s hand and he pulled back in pain. Despite what happened, the old man did not give up and continued to rescue the cat again and again.
+
+Another man strolling in the forest saw what was happening. He yelled at the old man to stop helping the cat since he could get out on his own.
+
+The old man ignored what the other guy said and just continued reaching out for the cat until he finally succeeded! After that, the old man approached the younger guy and told him that it is the cat’s instinct to scratch and hurt someone when in danger, however, it is the old man’s job to love and care for others.</p></strong></i></b>
+
+<h2><u>Moral of the Story:</u></h2>
+<i><strong>Treat everyone with kindness especially those who are in need. Always treat others the way you want to be treated.</i></strong>
+</body>
+</html>
 
