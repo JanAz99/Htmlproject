@@ -14,7 +14,7 @@ p    {color: slateblue;}
 <title> A Happy Cat </title>
 </head>
 <body>
-<img src ="https://tse3.mm.bing.net/th?id=OIP.hgnmQTM5tG5qRGoVOSDmhAHaHC&pid=Api&P=0&h=220" width="500" height="500">
+<img src ="https://tse3.mm.bing.net/th?id=OIP.hgnmQTM5tG5qRGoVOSDmhAHaHC&pid=Api&P=0&h=220" width="100" height="200">
 <h1>Sample theme</h1>
 <p><strong> One day, an old man was walking in the forest and saw a little cat stuck in a hole. The little cat was having a hard time getting out of the hole that’s why the old man decided to lend him a hand. Feeling scared, the poor animal scratched the man’s hand and he pulled back in pain. Despite what happened, the old man did not give up and continued to rescue the cat again and again.
 
