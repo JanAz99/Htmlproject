@@ -1,0 +1,41 @@
+.grid-container {
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.1fr 0.3fr 1.2fr 0.2fr ;
+    grid-template-areas: 
+    "Nav Nav Nav Nav"
+    "menu header header header"
+    "menu main main right"
+    "menu footer footer footer";
+    grid-gap: 10px;
+    background-color: #2196F3;
+    height: 200vh;
+    text-align: center;
+    padding: 20px 20px;
+    font-size: 30px;
+} 
+.item1{
+    grid-area:Nav;
+    background: #8d7182;
+      }
+.item2{
+    grid-area:menu;
+    background: #ee44ad;
+      }
+.item3 { 
+    grid-area: header; 
+    background: #3ac47d;
+}
+.item4 { 
+    grid-area: main;
+    background: #efb778;
+
+}
+.item5 { 
+    grid-area: right;
+    background: #90dff3;
+}
+.item6 {
+    grid-area: footer;
+    background: #959aed;
+    }

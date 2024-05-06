@@ -1,0 +1,95 @@
+        .grid-container {
+            display: grid;
+            grid-template-columns:1fr 1fr 1fr 2fr;
+            grid-template-rows: 0.1fr 0.3fr 1.2fr 0fr ;
+            grid-template-areas: 
+            "Nav Nav Nav Nav"
+            "menu header header header"
+            "menu main main main"
+            "footer footer footer footer";
+            grid-gap: 10px;
+            background-color: white;
+            height: 200vh;
+            text-align: center;
+            padding: 20px 20px;
+            font-size: 30px;    
+        } 
+        .item1{
+            grid-area:Nav;
+            background: rgb(252, 248, 248);
+            }
+        .item2{
+            grid-area:menu;
+            background: #f9f3f7;
+            }
+        .item3 { 
+            grid-area: header; 
+            background: rgb(245, 236, 236);
+        }
+        .item4 { 
+            grid-area: main;
+            background: rgb(245, 236, 236);
+            height: 150vh;
+
+        }
+
+        .item5 {
+            display: flex;
+            margin-top: 200px;
+            max-width: 100%;
+            
+            grid-area: footer;
+            background: #959aed;
+            }
+
+            #nav1{
+                width: 250px;
+            }
+            #tag1{
+                color: aliceblue;
+            }
+            .card {
+                min-height: 200px;
+            }
+            .footer{
+                padding: 50px 15% 10px;
+                color: #1cbd2f;
+                width:max-content;
+                font-weight: 900;
+                font-family: 'Arial Narrow Bold', sans-serif;
+                align-content: center;
+                
+            
+            }
+            .footer h2{
+                font-size: 18px;
+                font-weight: 400;
+                margin-bottom:30px;
+            }
+            .footer .col{
+                flex-basis: 25%;
+                flex-grow: 1;
+                margin-bottom:20px;
+            }
+            .footer .col a{
+                display: block;
+                text-decoration: none;
+                color:#1bad66;
+                font-size: 14px;
+                margin-bottom:10px;
+            }
+            .footer .row{
+                align-items: flex-start;
+                padding: 10px 0;
+            }
+            .footer .language-btn{
+                color: rgb(106, 79, 229);
+                padding: 10px 20px;
+                border-radius: 3px;
+            }
+            .copyright-txt{
+                font-size: 14px;
+                margin-top:20px;
+                margin-bottom: 10px;
+            }
+            
